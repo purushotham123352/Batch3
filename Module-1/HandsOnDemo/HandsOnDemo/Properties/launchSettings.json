@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HandsOnDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "Welcome to Dotnet Core"
+    }
+  }
+}

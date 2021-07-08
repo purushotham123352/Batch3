@@ -1,0 +1,16 @@
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\HandsOnDemo.csproj.AssemblyReference.cache
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\HandsOnDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\HandsOnDemo.AssemblyInfoInputs.cache
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\HandsOnDemo.AssemblyInfo.cs
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\HandsOnDemo.csproj.CoreCompileInputs.cache
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\bin\Debug\net5.0\HandsOnDemo.exe
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\bin\Debug\net5.0\HandsOnDemo.deps.json
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\bin\Debug\net5.0\HandsOnDemo.runtimeconfig.json
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\bin\Debug\net5.0\HandsOnDemo.runtimeconfig.dev.json
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\bin\Debug\net5.0\HandsOnDemo.dll
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\bin\Debug\net5.0\ref\HandsOnDemo.dll
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\bin\Debug\net5.0\HandsOnDemo.pdb
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\HandsOnDemo.dll
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\ref\HandsOnDemo.dll
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\HandsOnDemo.pdb
+D:\Trainining(07.01.2021)\Modules\Module-1\HandsOnDemo\HandsOnDemo\obj\Debug\net5.0\HandsOnDemo.genruntimeconfig.cache
