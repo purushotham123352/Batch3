@@ -1,0 +1,16 @@
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.csproj.AssemblyReference.cache
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.AssemblyInfoInputs.cache
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.AssemblyInfo.cs
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.csproj.CoreCompileInputs.cache
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.exe
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.deps.json
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.runtimeconfig.json
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.runtimeconfig.dev.json
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.dll
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\ref\HandsOnLinq.dll
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.pdb
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.dll
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\ref\HandsOnLinq.dll
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.pdb
+D:\Trainining(07.01.2021)\HandsOn-Modules\Module-2\LINQ\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.genruntimeconfig.cache
