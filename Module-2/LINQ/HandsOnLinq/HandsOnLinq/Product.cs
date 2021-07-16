@@ -38,6 +38,7 @@ namespace HandsOnLinq
             products.Add(new Product() { Pid = 13, Pname = "Mouse", Price = 300, Stock = 30 });
             //fetch Product details of id 1
             // Product obj = products.SingleOrDefault(i => i.Pid == 1);
+            List<Product> l1 = products.ToList();
             var result = (from i in products
                           where i.Pid == 1
                           select i);
@@ -56,6 +57,29 @@ namespace HandsOnLinq
             foreach(var ob in list1)
                 Console.WriteLine($"{ob.Pid} {ob.Pname} {ob.Price} {ob.Stock}");
             int c = products.Where(p => p.Price > 1000).Count();
+            List<Custom> list2 = (from i in products
+                           where i.Price > 500
+                           select new Custom() { Pid=i.Pid,Pname=i.Pname }).ToList();
+            var list3 = products.Where(i => i.Price > 500).Select(i => new { i.Pid, i.Pname });
+            foreach(var k in list2)
+            {
+                Console.WriteLine(k.Pid+" "+k.Pname);
+            }
+            var group_result = products.GroupBy(i => i.Price);
+            foreach(var list in group_result)
+            {
+                // Console.WriteLine("The Proudcts has price "+list.Key);
+                Console.WriteLine($"Price:{list.Key} Product Count:{list.Count()}");
+                //foreach(Product p1 in list)
+                //{
+                //    Console.WriteLine($"Name:{p1.Pname}");
+                //}
+            }
         }
+    }
+    class Custom
+    {
+        public int Pid { get; set; }
+        public string Pname { get; set; }
     }
 }
