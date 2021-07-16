@@ -114,7 +114,8 @@ namespace HandsOnDBFirst_Demo1
                                                      }).ToList();
                 foreach (var item in students)
                 {
-                    Console.WriteLine($"{item.StudCode} {item.StudName} {item.DeptCode} {item.BookCode} {item.BookName}" +
+                    Console.WriteLine($"{item.StudCode} {item.StudName} {item.DeptCode} {item.BookCode} " +
+                        $"{item.BookName}" +
                         $" {item.IssueDate.ToShortDateString()} {item.ExpReturnDate.ToShortDateString()}");
                 }
             }
