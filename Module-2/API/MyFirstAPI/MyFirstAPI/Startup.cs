@@ -27,6 +27,7 @@ namespace MyFirstAPI
         {
 
             services.AddControllers();
+            services.AddDBContext<>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "MyFirstAPI", Version = "v1" });

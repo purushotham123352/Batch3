@@ -30,6 +30,12 @@ namespace HandsOnControllers.Models
             return employee;
         }
 
+        public Employee GetEmployee(string name)
+        {
+            Employee employee = employees.SingleOrDefault(i => i.Ename == name);
+            return employee;
+        }
+
         public List<Employee> GetEmployees()
         {
             return employees;

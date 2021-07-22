@@ -9,6 +9,7 @@ namespace HandsOnControllers.Models
     {
         List<Employee> GetEmployees();
         Employee GetEmployee(int eid);
+        Employee GetEmployee(string name);
         void AddEmployee(Employee employee);
         void DeleteEmployee(int eid);
     }

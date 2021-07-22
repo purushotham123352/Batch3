@@ -18,18 +18,26 @@ namespace HandsOnControllers.Controllers
         }
         //Get All Employees
         [HttpGet]
+        [Route("GetEmployees")]
         public List<Employee> GetEmployees()
         {
             return repository.GetEmployees();
         }
         //Get Employee By Id
-        [HttpGet("{eid}")]
+        [HttpGet]
+        [Route("GetEmployeeById/{eid}")]
         public Employee GetEmployee(int eid)
         {
             return repository.GetEmployee(eid);
         }
+       [Route("GetEmployeeByName/{name}")]
+        public Employee GetEmployee(string name)
+        {
+            return repository.GetEmployee(name);
+        }
         //Add New Employee
         [HttpPost]
+        [Route("AddEmployee")]
         public string AddEmployee(Employee employee)
         {
            repository.AddEmployee(employee);
