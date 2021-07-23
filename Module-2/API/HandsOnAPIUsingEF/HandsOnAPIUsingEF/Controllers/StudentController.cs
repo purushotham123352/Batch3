@@ -12,10 +12,10 @@ namespace HandsOnAPIUsingEF.Controllers
     [ApiController]
     public class StudentController : ControllerBase
     {
-        private StudentRepository _repository;
-        public StudentController()
+        private IStudentRepository _repository;
+        public StudentController(IStudentRepository repository)
         {
-            _repository = new StudentRepository();
+            _repository = repository;
         }
 
         [HttpGet]

@@ -8,9 +8,9 @@ namespace HandsOnAPIUsingEF.Repositories
     public class StudentRepository : IStudentRepository
     {
         private TrainingContext context = null;
-        public StudentRepository()
+        public StudentRepository(TrainingContext context)
         {
-            context = new TrainingContext();
+            this.context = context;
         }
         public void AddStudent(StudentMaster student)
         {

@@ -12,6 +12,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using HandsOnAPIUsingEF.Entities;
 using Microsoft.EntityFrameworkCore;
+using HandsOnAPIUsingEF.Repositories;
 namespace HandsOnAPIUsingEF
 {
     public class Startup
@@ -29,6 +30,7 @@ namespace HandsOnAPIUsingEF
 
             services.AddControllers();
             services.AddDbContext<TrainingContext>(option => option.UseSqlServer(Configuration.GetConnectionString("TrainingConn")));
+            services.AddTransient<IStudentRepository, StudentRepository>(); //add dependency
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HandsOnAPIUsingEF", Version = "v1" });
