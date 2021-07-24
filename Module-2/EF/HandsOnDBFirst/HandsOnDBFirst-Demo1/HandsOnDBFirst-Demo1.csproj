@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>HandsOnDBFirst_Demo1</RootNamespace>
+    <StartupObject>HandsOnDBFirst_Demo1.Demo</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
