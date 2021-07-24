@@ -1,0 +1,6 @@
+use Training
+sp_tables
+sp_rename
+sp_help Student_Master
+sp_helptext
+sp_helpconstraint

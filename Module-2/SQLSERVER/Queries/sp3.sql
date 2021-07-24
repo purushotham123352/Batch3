@@ -15,3 +15,4 @@ end catch
 end
 exec sp_AddStudent 32334,'Rohan',10,'12.2.2010','Chennai'
 exec sp_AddStudent 32335,'Karan',10,'12.2.2009','Bangalore'
+exec sp_GetStudents

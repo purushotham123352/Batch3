@@ -17,7 +17,7 @@ namespace HandsOnDBFirst_Demo1
                 List<StudentMaster> students = db.StudentMasters.FromSqlRaw("sp_GetStudentsByDept 10").ToList();
                 foreach (var item in students)
                 {
-                    Console.WriteLine("{0} {1}",item.StudCode,item.StudName);
+                    Console.WriteLine("{0} {1}", item.StudCode, item.StudName);
                 }
             }
         }
