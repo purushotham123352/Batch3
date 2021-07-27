@@ -28,7 +28,7 @@ namespace APIService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            //confige JWT
+            //confige JWT //2
             var key = Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]);
                 services.AddAuthentication(x =>
             {
@@ -58,7 +58,7 @@ namespace APIService
             }
 
             app.UseRouting();
-            app.UseAuthentication();
+            app.UseAuthentication(); //3
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

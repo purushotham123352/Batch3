@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5lp6bwhODYcah2/mtst4SFApJYvXxisoUuFz/Nl8SUUoEW75ksVXUVRp+kCIe6JzfVRyvrwnIh9wa9A18eRPTA==",
+  "dgSpecHash": "LdrTdB9zfjagpanOvhelQeHAcBcEQNIC627fAlm23kBHDkWxjlA5o4/pMd9rrKG/omjH3ylqsp1czpWGlY16lQ==",
   "success": true,
-  "projectFilePath": "D:\\Training(4.19.2021)\\Modules\\Module-3\\WEB-API\\RolebasedAuthenticationAndAuthorizationUsingJWT\\APIService\\APIService.csproj",
+  "projectFilePath": "D:\\Trainining(07.01.2021)\\HandsOn-Modules\\Module-2\\API\\RolebasedAuthenticationAndAuthorizationUsingJWT\\APIService\\APIService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SANTHOSH\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\SANTHOSH\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.0\\microsoft.aspnetcore.authentication.jwtbearer.3.1.0.nupkg.sha512",
